@@ -1,0 +1,16 @@
+[2019-11-15 12:47:40.008] [warning] [gpio_hw_frontend] Received bad ack from cmd 88, status: GPIO_INVALID_COMMAND_FOR_CONTROLLER
+[2019-11-15 13:05:02.290] [warning] [gpio_hw_frontend] Received bad ack from cmd 88, status: GPIO_INVALID_COMMAND_FOR_CONTROLLER
+[2019-11-15 13:06:09.826] [error] [rpi_gpio_hwbackend] Failed to open driver. Error -1
+[2019-11-15 13:06:26.987] [error] [rpi_gpio_hwbackend] Failed to open driver. Error -1
+[2019-11-15 13:08:44.846] [error] [rpi_gpio_hwbackend] Failed to open driver. Error -1
+[2019-11-15 13:10:35.352] [warning] [gpio_hw_frontend] Received bad ack from cmd 88, status: GPIO_INVALID_COMMAND_FOR_CONTROLLER
+[2019-11-15 13:13:23.086] [warning] [gpio_hw_frontend] Received bad ack from cmd 88, status: GPIO_INVALID_COMMAND_FOR_CONTROLLER
+[2019-11-15 13:13:59.620] [warning] [gpio_hw_frontend] Received bad ack from cmd 88, status: GPIO_INVALID_COMMAND_FOR_CONTROLLER
+[2019-11-15 13:15:19.283] [warning] [gpio_hw_frontend] Received bad ack from cmd 88, status: GPIO_INVALID_COMMAND_FOR_CONTROLLER
+[2019-11-15 13:15:53.784] [warning] [gpio_hw_frontend] Received bad ack from cmd 88, status: GPIO_INVALID_COMMAND_FOR_CONTROLLER
+[2019-11-15 13:17:12.500] [warning] [gpio_hw_frontend] Received bad ack from cmd 88, status: GPIO_INVALID_COMMAND_FOR_CONTROLLER
+[2019-11-15 13:18:31.056] [warning] [gpio_hw_frontend] Received bad ack from cmd 88, status: GPIO_INVALID_COMMAND_FOR_CONTROLLER
+[2019-11-15 13:19:08.843] [warning] [gpio_hw_frontend] Received bad ack from cmd 88, status: GPIO_INVALID_COMMAND_FOR_CONTROLLER
+[2019-11-15 13:19:59.990] [warning] [gpio_hw_frontend] Received bad ack from cmd 88, status: GPIO_INVALID_COMMAND_FOR_CONTROLLER
+[2019-11-15 13:21:04.454] [warning] [gpio_hw_frontend] Received bad ack from cmd 88, status: GPIO_INVALID_COMMAND_FOR_CONTROLLER
+[2019-11-15 13:21:28.091] [warning] [gpio_hw_frontend] Received bad ack from cmd 88, status: GPIO_INVALID_COMMAND_FOR_CONTROLLER
